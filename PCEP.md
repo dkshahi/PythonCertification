@@ -4,6 +4,10 @@ This is the beginner level certification in python and the official site can be 
 
 The official [syllabus](https://pythoninstitute.org/certification/pcep-certification-entry-level/pcep-exam-syllabus/) can be reached here.
 
+You can apply for exam [here](https://edube.org/registration) and upon completion you will recieve this badge.
+
+![PCEP.PNG](/pics/PCEP.PNG)
+
 ### Exam block #1: Basic Concepts (17%) 
 
 #### Objectives covered by the block (5 exam items)  
