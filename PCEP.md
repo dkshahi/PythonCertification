@@ -10,6 +10,8 @@ You can apply for exam [here](https://edube.org/registration) and upon completio
 
 ![PCEP.PNG](/pics/PCEP.PNG)
 
+## The Syllabus
+
 ### Exam block #1: Basic Concepts (17%) 
 
 #### Objectives covered by the block (5 exam items)  
