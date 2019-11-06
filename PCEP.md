@@ -4,6 +4,8 @@ This is the beginner level certification in python and the official site can be 
 
 The official [syllabus](https://pythoninstitute.org/certification/pcep-certification-entry-level/pcep-exam-syllabus/) can be reached here.
 
+I have a course about this on [udemy](https://www.udemy.com/course/becoming-pcep-python-certified-entry-level-programmer) that helps you prepare for the exam.
+
 You can apply for exam [here](https://edube.org/registration) and upon completion you will recieve this badge.
 
 ![PCEP.PNG](/pics/PCEP.PNG)
