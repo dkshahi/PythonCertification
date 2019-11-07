@@ -2,7 +2,7 @@
 
 This is the experienced level of this certification, the official site can be found here [PCPP](https://pythoninstitute.org/certification/pcpp-certification-professional/) which is the professional, to complete this level you will have to take two exams.
 
-Here is the official syllabus for [PCPP-32-1]](https://pythoninstitute.org/certification/pcpp-certification-professional/pcpp-32-1-exam-syllabus/) and [PCPP-32-2](https://pythoninstitute.org/certification/pcpp-certification-professional/pcpp-32-2-exam-syllabus/).
+Here is the official syllabus for [PCPP-32-1](https://pythoninstitute.org/certification/pcpp-certification-professional/pcpp-32-1-exam-syllabus/) and [PCPP-32-2](https://pythoninstitute.org/certification/pcpp-certification-professional/pcpp-32-2-exam-syllabus/).
 
 I have a will have a course about this on [udemy](https://www.udemy.com) that helps you prepare for the exam.
 
